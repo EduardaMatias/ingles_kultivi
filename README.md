@@ -57,13 +57,11 @@ Resposta: My name is... / It’s.... <br>
  - How are things?
  - How's lifes treating you?
 
-
-
-
-
-
 ![image](https://user-images.githubusercontent.com/85466761/150027977-50268ee0-15e0-44a5-b3ec-f6672bc4b263.png)
 
+4. Occupations
+
+Parei no min 12:41
 
 
 
