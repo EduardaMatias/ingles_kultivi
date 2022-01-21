@@ -59,9 +59,47 @@ Resposta: My name is... / It’s.... <br>
 
 ![image](https://user-images.githubusercontent.com/85466761/150027977-50268ee0-15e0-44a5-b3ec-f6672bc4b263.png)
 
-4. Occupations
+---
 
-Parei no min 12:41
+## Aula 3 - Occupations
+
+1. Occupation x Profession 
+
+ - Occupation é algo que é feito para ganhar dinheiro (ocupa o tempo). 
+ - Profession está ligado ao profissionalismo, carreira. 
+ - Exemplo: Rui estudou para ser professor (profession) mas toca na noite (occupation).
+ - Na conversasão a diferença é nula, o mais usual é occupation
+
+2. Occupations
+
+ - Actor/actress - ator/atriz
+ - Architect - arquiteto
+ - Astrounaut - astronauta
+ - Baker - padeiro
+ - Bricklayer - pedreiro
+ - Butcher - açougueiro
+ - Cashier - caixa
+ - Cook - cozinheiro
+ - Dentist - dentista
+ - Douctor - médico
+ - Drivers - motorista
+ - Electrician - eletricista
+ - Engineer - engenheiro
+ - Fireman - bombeiro
+ - Gerdener - jardineiro
+ - Lawyer - advogado
+ - Mechanic - mecanico
+ - Nurse - enfermeira/enfermeiro
+ - Painter - pintor
+ - Plumber - encanador
+ - Police officer - policial
+ - Realtor - corretor
+ - Secretary/receptionist - secretária/recepcionista
+ - Singer - cantor
+ - Coccer player - jogador de futebol
+ - Student - estudante
+ - Teacher - professor/professora
+ - Waitress/waiter - garçonete/garçon
 
 
 
